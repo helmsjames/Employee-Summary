@@ -13,12 +13,12 @@ exports.generateMainHtml = function(cards) {
     <title>Employee</title>
   </head>
   <body>
-    <div class="wrapper">
+    
       <header class="header">My Team</header>
       <main class="main">
       ${cards}        
       </main>
-    </div>
+    
     
 
     <!-- Optional JavaScript -->
